@@ -892,4 +892,4 @@ GitHub repository: alx-backend-user-data
 Directory: 0x02-Session_authentication
 File: api/v1/auth/session_db_auth.py, api/v1/app.py, models/user_session.py
   
-Copyright © 2024 ALX, All rights reserved
+Copyright © 2024 ALX, All rights reserved.
